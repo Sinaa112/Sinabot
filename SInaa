@@ -24,3 +24,7 @@ while True:
                 requests.get(url + 'sendMessage', params=dict(chat_id=update['message']['chat']['id'], text=update['message']['text']))
     # Let's wait a few seconds for new updates
     sleep(3)
+    if command = /start
+    send = hello
+
+
